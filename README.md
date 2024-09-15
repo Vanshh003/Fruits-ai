@@ -1,3 +1,3 @@
-Login with the Dummy Credentials:
-	Username: 		user
-	Password:		password
+Login with the Dummy Credentials: <br>
+- Username: 		user
+- Password:		password
